@@ -2,4 +2,8 @@
 Git Demo Repository
 
 ### Just Updating this file
+
 Milan Parajuli
+Deepak  Kumar  Shrestha
+Yuba Raj Kalathoki
+
