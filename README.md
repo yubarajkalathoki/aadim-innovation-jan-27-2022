@@ -4,3 +4,6 @@ Git Demo Repository
 ### Just Updating this file
 Deepak  Kumar  Shrestha
 Yuba Raj Kalathoki
+
+Just updateing the initial version
+
