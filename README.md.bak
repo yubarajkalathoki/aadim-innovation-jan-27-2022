@@ -2,8 +2,12 @@
 Git Demo Repository
 
 ### Just Updating this file
-Anita is just trying to solve merge conflict. 
+
+<<<<<<< HEAD
+Anita Khadka 
+=======
 Milan Parajuli
-Bishal Bhandari
 Deepak  Kumar  Shrestha
 Yuba Raj Kalathoki
+>>>>>>> a2179d47c13d58fdf78cbb8ea9c6b0e24e98e094
+
